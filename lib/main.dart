@@ -4,6 +4,7 @@ import './Animation/FadeAnimation.dart';
 void main() => runApp(
       MaterialApp(
         home: HomePage(),
+        debugShowCheckedModeBanner: false,
       ),
     );
 
